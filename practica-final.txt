@@ -1,0 +1,14 @@
+-------------------------------------------------------------
+La empresa necesita un mejor calculo del tipo de cambio entre el Euro a Peso Mexicano, y el Dolar a Peso Mexicano en los pagos de importaciones.
+-------------------------------------------------------------
+
+-------------------------------------------------------------
+Algoritmo:
+1. Buscar el valor actual del Euro y Dolar con respecto al Mex.
+2. Solicitar al usuario el tipo de conversion (Euro a Mex o Dolar a Mex)
+3. Solicitar al usuario el monto a invertir.
+4. Realizar la conversion utilizando el tipo de cambio correspondiente.
+5. Mostrar el resultado de la conversion al usuario.
+-------------------------------------------------------------
+
+-------------------------------------------------------------
