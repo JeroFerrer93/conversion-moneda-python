@@ -45,7 +45,7 @@ precio_dolar = obtener_precio_dolar_yahoo()
 if precio_dolar:
     print(f"El precio inicial del dólar frente al peso argentino es: {precio_dolar}")
 
-# Bucle de ejecución
+# Bucle de ejecución - Salir con ctrl+c
 try:
     while True:
         schedule.run_pending()
